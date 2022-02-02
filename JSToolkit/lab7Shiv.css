@@ -1,0 +1,48 @@
+body{
+  align-items: center;
+  text-align: center;
+  background-color: lightblue;
+}
+/*Assigning whole content's text to be center aligned*/
+
+#content{
+  margin: 10%;
+
+  padding: 20px;
+}
+
+h1{
+  color: black;
+  font-family: times new roman;
+  padding: 5px;
+}
+
+h1:hover{
+  color: #DC143C;
+}
+
+.button{
+  background-color: darkslategray;
+  color: white;
+}
+
+.button:hover{
+  color: #FFFF00;
+  background-color: black;
+}
+/*Due to this command, when you bring your curser over
+any of the present buttons it will change button's
+background and color for that particular moment.  */
+
+#discription{
+  color: blue;
+  text-align: left;
+  font-size: 20px;
+}
+
+footer{
+  text-decoration: underline;
+  color: black;
+  padding-top: 20px;
+  font-size: 20px;
+}
